@@ -25,7 +25,7 @@ public class DogWalkCompany {
         return hour;
     }
 
-    public int numAvailableDogs(int, hour) {
+    public int numAvailableDogs(int hour) {
         return schedule[hour];
     }
 
