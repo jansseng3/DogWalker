@@ -29,7 +29,7 @@ public class DogWalker {
             }
 
             startHour++;
-            return pay;
         }
+        return pay;
     }
 }
